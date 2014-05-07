@@ -1,0 +1,4 @@
+myconfig
+========
+
+miscellaneous configuration files
